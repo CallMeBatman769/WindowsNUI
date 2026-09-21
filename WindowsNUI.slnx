@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WindowsNUI/WindowsNUI.vcxproj" Id="793f2478-26b6-4efa-a7b8-32bbff18b13a" />
+</Solution>
